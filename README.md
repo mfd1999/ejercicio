@@ -1,0 +1,2 @@
+# nintendo
+Ejercicio en clase
